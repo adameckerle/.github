@@ -30,7 +30,7 @@ Bitwarden Password Manager enables businesses and individuals to protect their o
     <li>Option to self-host
 </ul>
 
-Popular related repos
+#### Popular related repos
 <ul>
     <li><a href="https://github.com/bitwarden/server">server</a> - Bitwarden infrastructure/backend (API, database, Docker, etc).
     <li><a href="https://github.com/bitwarden/clients">clients</a> - Bitwarden client apps (web, browser extension, desktop, and cli).
@@ -45,7 +45,8 @@ Bitwarden Secrets Manager enables developers, DevOps, and cybersecurity teams to
     <li>Boost productivity, collaborate securely.
     <li>Level up your protection.
 </ul>
-Popular related repos
+
+#### Popular related repos
 <ul>
     <li><a href="https://github.com/bitwarden/sdk-sm">sdk-sm</a> - Bitwarden Secrets Manager SDK
     <li><a href="https://github.com/bitwarden/sm-action">sm-action</a> - Github Action for Secrets Manager
@@ -59,13 +60,14 @@ Bitwarden Passwordless.dev provides the API framework that minimizes complexitie
     <li><b>Passkeys for your users</b>: For developers building user applications, give your end users a seamless login experience that is more secure and one they will love. Keep your authentication flow smooth and fast to grow your user base.
     <li><b>Passkeys for your workforce</b>: Phish-proof your enterprise by giving internal team members the ability to access enterprise systems and applications without relying on passwords.
 </ul>
-Popular related repos
+
+#### Popular related repos
 <ul>
     <li><a href="https://github.com/bitwarden/passwordless-server">passwordless-server</a> - Bitwarden Passwordless.dev infrastructure/backend (API, database, Docker, etc)
     <li><a href="https://github.com/bitwarden/passwordless-react-example">passwordless-react-example</a> - Bitwarden Passwordless.dev React example
 </ul>
 Learn more by visiting the <a href="https://docs.passwordless.dev/" target="_blank"> Passwordless.dev documentation</a>.
-<p></p>
+</p>
 
 # We're Hiring!
 
