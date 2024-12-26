@@ -11,11 +11,11 @@
 #### Here, you can
 <ul>
     <li>Review code + release info/feature development
-    <li>Submit bugs
     <li>Propose PRs
     <li>Fork Bitwarden
 </ul>
 
+To request support, please visit http://bitwarden.com/help and click the Contact support button on the right-hand side.
 # About Bitwarden Repos
 
 ## Bitwarden Password Manager
