@@ -8,7 +8,7 @@
 
 <a href="https://bitwarden.com" target="_blank">Bitwarden</a> envisions a world where no one gets hacked, and we recognize this is only possible by working together. The global Bitwarden community shapes our mission to empower individuals, teams, and organizations to safely manage their sensitive information online.
 
-### Here, you can
+#### Here, you can
 <ul>
     <li>Review code + release info/feature development
     <li>Submit bugs
