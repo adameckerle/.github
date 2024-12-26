@@ -4,22 +4,30 @@
     </a>
 </p>
 
----
-
-## About Bitwarden
+# About Bitwarden
 
 <a href="https://bitwarden.com" target="_blank">Bitwarden</a> envisions a world where no one gets hacked, and we recognize this is only possible by working together. The global Bitwarden community shapes our mission to empower individuals, teams, and organizations to safely manage their sensitive information online.
 
-# Solutions
+### Here, you can
+<ul>
+    <li>Review code + release info/feature development
+    <li>Submit bugs
+    <li>Propose PRs
+    <li>Fork Bitwarden
+</ul>
+
+# About Bitwarden Products
+
 ## Bitwarden Password Manager
 
 Bitwarden Password Manager enables businesses and individuals to protect their online data in the face of rising cybercrime threats. Use Bitwarden Password Manager to generate strong, unique passwords for every account you use online.
 
 ### Security-first principles
 <ul>
-    <li>Open source</li>
-    <li>End-to-end encrypted</li>
+    <li>Open source
+    <li>End-to-end encrypted
     <li>Zero-knowledge encrypted
+    <li>Option to self-host
 </ul>
 Learn more by reading our <a href="https://bitwarden.com/help/bitwarden-security-white-paper/" target="_blank">Bitwarden Security Whitepaper</a>.
 
@@ -27,9 +35,9 @@ Learn more by reading our <a href="https://bitwarden.com/help/bitwarden-security
 
 Bitwarden Secrets Manager enables developers, DevOps, and cybersecurity teams to centrally store, manage, and deploy secrets at scale. Use Secrets Manager to:
 <ul>
-    <li>Manage and deploy secrets across the development lifecycle.</li>
-    <li>Boost productivity, collaborate securely.</li>
-    <li>Level up your protection.</li>
+    <li>Manage and deploy secrets across the development lifecycle.
+    <li>Boost productivity, collaborate securely.
+    <li>Level up your protection.
 </ul>
 Learn more by visiting the <a href="https://bitwarden.com/help/secrets-manager-overview/" target="_blank">Secrets Manager documentation</a>.
 
@@ -37,8 +45,8 @@ Learn more by visiting the <a href="https://bitwarden.com/help/secrets-manager-o
 
 Bitwarden Passwordless.dev provides the API framework that minimizes complexities associated with passkey development.
 <ul>
-    <li><b>Passkeys for your users</b>: For developers building user applications, give your end users a seamless login experience that is more secure and one they will love. Keep your authentication flow smooth and fast to grow your user base.</li>
-    <li><b>Passkeys for your workforce</b>: Phish-proof your enterprise by giving internal team members the ability to access enterprise systems and applications without relying on passwords.</li>
+    <li><b>Passkeys for your users</b>: For developers building user applications, give your end users a seamless login experience that is more secure and one they will love. Keep your authentication flow smooth and fast to grow your user base.
+    <li><b>Passkeys for your workforce</b>: Phish-proof your enterprise by giving internal team members the ability to access enterprise systems and applications without relying on passwords.
 </ul>
 Learn more by visiting the <a href="https://docs.passwordless.dev/" target="_blank"> Passwordless.dev documentation</a>.
 <p></p>
